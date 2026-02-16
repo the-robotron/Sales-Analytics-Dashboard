@@ -285,9 +285,9 @@ Passionate about transforming raw data into actionable business insights through
 
 #### 🔗 Connect With Me
 
-- 📧 Email: [shivam@example.com](mailto:shivam@example.com)
-- 💼 LinkedIn: [linkedin.com/in/shivam-singh](https://linkedin.com/in/shivam-singh)
-- 🐙 GitHub: [@the-robotron](https://github.com/the-robotron)
+- 💼 LinkedIn: [linkedin.com/in/shivam-singh-7201021a6](https://www.linkedin.com/in/shivam-singh-7201021a6)
+- - 🐙 GitHub: [@the-robotron](https://github.com/the-robotron)
+- 📍 Location: Noida, Uttar Pradesh, India
 - 📍 Location: Noida, Uttar Pradesh, India
 
 #### 💼 Professional Focus
