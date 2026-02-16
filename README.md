@@ -274,15 +274,29 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is available for personal and educational use. Feel free to use, modify, and learn from this code. Commercial use requires attribution.
 ## 👤 Author
 
-**Shivam Singh**
-- GitHub: [@the-robotron](https://github.com/the-robotron)
-- LinkedIn: [Connect with me](https://linkedin.com/in/shivam-singh)
+### 👨‍💻 About the Developer
 
-## 🌟 Show Your Support
+**Shivam Singh** | Data Analyst & Business Intelligence Specialist
+
+Passionate about transforming raw data into actionable business insights through analytics and visualization. Specializing in Power BI, SQL, and Python for data-driven decision making.
+
+#### 🔗 Connect With Me
+
+- 📧 Email: [shivam@example.com](mailto:shivam@example.com)
+- 💼 LinkedIn: [linkedin.com/in/shivam-singh](https://linkedin.com/in/shivam-singh)
+- 🐙 GitHub: [@the-robotron](https://github.com/the-robotron)
+- 📍 Location: Noida, Uttar Pradesh, India
+
+#### 💼 Professional Focus
+
+- Data Analysis & Visualization
+- Business Intelligence Dashboards
+- ETL Pipeline Development
+- Statistical Analysis & Reporting
+- Power BI & Tableau Expertise## 🌟 Show Your Support
 
 Give a ⭐️ if this project helped you learn data analytics and visualization!
 
