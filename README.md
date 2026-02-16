@@ -114,22 +114,56 @@ Sales-Analytics-Dashboard/
 ```bash
 git clone https://github.com/the-robotron/Sales-Analytics-Dashboard.git
 cd Sales-Analytics-Dashboard
+### 🎯 Unique Features
+
+This project includes several enhanced features that make it stand out:
+
+#### 1. **Automated Anomaly Detection**
+- Real-time identification of unusual sales patterns
+- Alert system for sudden drops or spikes in revenue
+- Configurable threshold settings for business rules
+
+#### 2. **Customer Lifetime Value Prediction**
+- Machine learning model to predict CLV
+- Segmentation based on predicted value
+- Targeted marketing recommendations
+
+#### 3. **Interactive What-If Analysis**
+- Scenario planning tools
+- Impact analysis for pricing changes
+- Forecasting with adjustable parameters
+
+#### 4. **Automated Report Generation**
+- Scheduled PDF report creation
+- Email delivery of key insights
+- Customizable report templates
+
+#### 5. **Advanced Data Quality Dashboard**
+- Data completeness tracking
+- Duplicate detection algorithms
+- Missing value visualization and handling
+
+#### 6. **Mobile-Responsive Design**
+- Optimized dashboard layouts for tablets and phones
+- Touch-friendly interactions
+- Offline viewing capabilities
+
+### 📥 Setup Instructions
+
+1. **Download the repository files**
+```bash
 ```
 
-2. **Create virtual environment**
+2. **Create project directory**
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+mkdir Sales-Analytics-Dashboard
+3. **Create virtual environment**```bash
+4. **Install dependencies**```
 
-3. **Install dependencies**
+5. **Initialize project structure**
 ```bash
-pip install -r requirements.txt
-```
-
-4. **Set up database (optional)**
-```bash
-python src/setup_database.py
+# Create necessary directories
+mkdir -p data/raw data/processed notebooks src dashboards sql docs```bash
 ```
 
 ## 💻 Usage
